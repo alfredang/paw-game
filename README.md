@@ -134,6 +134,8 @@ Have questions or ideas? Join the [Discussions](https://github.com/alfredang/paw
 
 [alfredang](https://github.com/alfredang)
 
+Co-created by [Openclaw](https://github.com/openclaw)
+
 ## Acknowledgements
 
 - Built with the [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
